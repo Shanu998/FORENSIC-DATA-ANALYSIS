@@ -31,12 +31,9 @@ The investigation centers on solving the murder of Roland Greene through digital
 <a href = https://github.com/Shanu998/FORENSIC-DATA-ANALYSIS/blob/main/forensic_events_large.csv> 
 <a href = https://github.com/Shanu998/FORENSIC-DATA-ANALYSIS/blob/main/suspects_large.csv> Download the Microsoft Excel file </a>
   
-## DATA MODEL: 
-![Data Model](https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/blob/main/IMAGES/MYSELLAR%20DATA%20MODEL.png)
-
 
 ## INSIGHTS
-![Overview Dashboard](https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/blob/main/IMAGES/MYSELLAR%20MAIN%20OVERVIEW.png)
+
 - Robin Ahmed was the last person to see the victim alive at 7:57 PM.
 - Gunshot occurred around 8:00 PM — activities around this time are crucial.
 - Jamie Bennett was active in the building during the shooting, found in the vault hallway at 20:00:55.
@@ -54,6 +51,5 @@ The investigation centers on solving the murder of Roland Greene through digital
 - Review vault room access policies, as it appears central to the suspects’ movements.
 - Recommend surveillance system audits to understand why the office security feed cut at 8:03 PM.
 
-
-
-
+## DOWNLOAD
+<a href = "https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/raw/refs/heads/main/IMAGES/Mysellar%20Analysis.pbix"> Download the Power BI file </a>
