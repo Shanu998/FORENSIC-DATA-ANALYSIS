@@ -1,5 +1,5 @@
 # FORENSIC-DATA-ANALYSIS
-AN INVESTIGATIVE ANALYSIS OF THE MURDER OF AN ART COLLECTOR 'ROLAND GREENE' USING SQL ANALYTICAL SKILL
+AN INVESTIGATIVE ANALYSIS OF THE MURDER OF AN ART COLLECTOR 'ROLAND GREENE' USING SQL 
 
 ## INTRODUCTION
 
@@ -53,3 +53,4 @@ The investigation centers on solving the murder of Roland Greene through digital
 
 ## DOWNLOAD
 <a href = "https://github.com/Shanu998/FORENSIC-DATA-ANALYSIS/blob/main/Queries.docx"> Download the Query file </a>
+<a href = "https://github.com/Shanu998/FORENSIC-DATA-ANALYSIS/blob/main/Investigation%20Report.docx"> Download the Investigation Report file </a>
