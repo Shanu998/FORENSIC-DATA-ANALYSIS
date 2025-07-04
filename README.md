@@ -52,4 +52,4 @@ The investigation centers on solving the murder of Roland Greene through digital
 - Recommend surveillance system audits to understand why the office security feed cut at 8:03 PM.
 
 ## DOWNLOAD
-<a href = "https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/raw/refs/heads/main/IMAGES/Mysellar%20Analysis.pbix"> Download the Power BI file </a>
+<a href = "https://github.com/Shanu998/FORENSIC-DATA-ANALYSIS/blob/main/Queries.docx"> Download the Query file </a>
